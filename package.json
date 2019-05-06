@@ -1,0 +1,19 @@
+{
+  "name": "bruteUX",
+  "version": "1.8.2",
+  "description": "News searcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build_linux": "electron-packeger . --version 1.8.2 --plataform linux --icon icon.png --out . --overwrite"
+  },
+  "repository": "#",
+  "keywords": [
+    "bruteUX"
+  ],
+  "author": "alcantarasc",
+  "license": "#",
+  "devDependencies": {
+    "electron": "^1.8.2"
+  }
+}

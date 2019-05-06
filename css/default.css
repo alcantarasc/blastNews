@@ -1,0 +1,12 @@
+body {	
+	background: #444;
+	font-family: "Segoe UI", 
+	Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", 
+	Verdana, "Verdana Ref", sans-serif;
+	color: white;
+}
+
+h1, p, h4 {
+	text-align: center;
+	padding: 20px;
+}
